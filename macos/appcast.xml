@@ -3,5 +3,15 @@
   <channel>
     <title>GlibScribe</title>
     <!-- Items added automatically by CI or `just github-release` -->
+      <item>
+        <title>Version 1.2.0</title>
+        <pubDate>Tue, 03 Mar 2026 21:49:05 +0000</pubDate>
+        <sparkle:version>1.2.0</sparkle:version>
+        <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+        <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.2.0/GlibScribe-1.2.0.dmg"
+          sparkle:edSignature="774LK80x56vywByTnlNrCAm0pPRtgT0abHMdVV+x+7MTk7JzjjtOumT28q2FeMX7LrDeOvkJqX1N0QRoEzGyAA=="
+          length="8806193"
+          type="application/octet-stream"/>
+      </item>
   </channel>
 </rss>
