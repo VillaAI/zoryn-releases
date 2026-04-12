@@ -233,5 +233,15 @@
           length="78892343"
           type="application/octet-stream"/>
       </item>
+      <item>
+        <title>Version 1.0.24</title>
+        <pubDate>Sun, 12 Apr 2026 05:33:35 +0000</pubDate>
+        <sparkle:version>1.0.24</sparkle:version>
+        <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+        <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.24/Zoryn-1.0.24.dmg"
+          sparkle:edSignature="xFEUx54hGaxYMemM+XPmAI+ZNX/zSfgqzpOhAUA+mirMB9yk7wJwvKSNZ0KlKLPsRlpfTT3Ph6hzFiD+2bwiDw=="
+          length="79290059"
+          type="application/octet-stream"/>
+      </item>
   </channel>
 </rss>
