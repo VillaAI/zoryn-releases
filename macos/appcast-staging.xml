@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Zoryn</title>
+    <item>
+      <title>Version 1.0.39</title>
+      <pubDate>Thu, 07 May 2026 00:44:46 +0000</pubDate>
+      <sparkle:version>1.0.39</sparkle:version>
+      <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.39/Zoryn-1.0.39.dmg" sparkle:edSignature="DVRxtpcMdSOhQtXACC0syjiiznTqRQLnWLbwMxw6DWVv3Aes6mbP1Hk6QUhd/6LL0mzYDDOLuZnkr9a2aPA2Cg==" length="81176029" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Wed, 04 Mar 2026 19:17:01 +0000</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.0/Zoryn-1.0.0.dmg" sparkle:edSignature="Kg5aqCq47vCszcuX8k8N40A/Hf7MpHR5rvuc7IEyFgiiRkqBGGaADe2kFANPgiKsH7byPyCqMFJQHeBaa9aQDw==" length="8806851" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Wed, 04 Mar 2026 22:59:48 +0000</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.1/Zoryn-1.0.1.dmg" sparkle:edSignature="xG9ZYoGJcmUIzZeEHSWz3Au9o4wWRQQq7jJYO7mSdIOthjysvaV9FS/UBatrhg00UeYTS+q5J4ePsXMDwx3VBA==" length="8877852" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Sat, 07 Mar 2026 06:54:21 +0000</pubDate>
+      <sparkle:version>1.0.2</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.2/Zoryn-1.0.2.dmg" sparkle:edSignature="XQAZBJiMP94rnAv4RNTb3JFJD8EsGklJTCEdEdjwPqc3CWgjUDjUbbL/T0+vse8iqaoWGMPRZ7qio4bmzAaPBw==" length="9403968" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.3</title>
+      <pubDate>Sun, 08 Mar 2026 04:21:48 +0000</pubDate>
+      <sparkle:version>1.0.3</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.3/Zoryn-1.0.3.dmg" sparkle:edSignature="ytE8Q6/TrGPgKKpii9QOvmLS00Ps65gqYdbaFWb+gILrr82yIXcWDR54XQOAjxkZtoQEVolz4WWmlsRFGyGZCg==" length="9413183" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.4</title>
+      <pubDate>Mon, 09 Mar 2026 02:19:35 +0000</pubDate>
+      <sparkle:version>1.0.4</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.4/Zoryn-1.0.4.dmg" sparkle:edSignature="d9kOzVfegS9TR1jBnQQZE+86oraFd6sT/m/OkJ5FjTq+w/0yIeXZm/Y0rx6J0FMdTm82j1nIrFG/LhKPDL+/CA==" length="7584427" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.5</title>
+      <pubDate>Mon, 09 Mar 2026 08:47:07 +0000</pubDate>
+      <sparkle:version>1.0.5</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.5/Zoryn-1.0.5.dmg" sparkle:edSignature="VFexw33mstvG6ciK6sCfhIFkDL9FsRsmrAolSfDTUWeUz8cAcNtOgcM9cKtlIx061z2RAxywUw4MGMroEmIOAg==" length="13510617" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.6</title>
+      <pubDate>Mon, 09 Mar 2026 23:12:42 +0000</pubDate>
+      <sparkle:version>1.0.6</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.6/Zoryn-1.0.6.dmg" sparkle:edSignature="btqi7GMk8Nh0N5stmn3SqeTwpBVyYP06oYjPsWSKsM8Lk88UJsW/0iS0Cg7QiLOct1zE3puhyWVBo7nkueqoAw==" length="13588223" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.7</title>
+      <pubDate>Tue, 10 Mar 2026 05:44:59 +0000</pubDate>
+      <sparkle:version>1.0.7</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.7/Zoryn-1.0.7.dmg" sparkle:edSignature="h0FRepk+5AacriRPv+e3Wsw/yraiWLPdhe4KSTnL05fg75pGCkmkh8bzqNvjd3dDjVeiUorC9cFA5AgtRpM9AQ==" length="13601875" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.8</title>
+      <pubDate>Tue, 10 Mar 2026 06:24:12 +0000</pubDate>
+      <sparkle:version>1.0.8</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.8/Zoryn-1.0.8.dmg" sparkle:edSignature="pk44Bvvzxy6k9ASDBbIO37grx9DGaXKmhJFiftx9VjTjbwhFQEWb7m9V5k0WRc2WtN0u/tuqNMrj53wJL8HOCg==" length="13601871" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.9</title>
+      <pubDate>Tue, 10 Mar 2026 19:26:33 +0000</pubDate>
+      <sparkle:version>1.0.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.9/Zoryn-1.0.9.dmg" sparkle:edSignature="ASbzaVk95MCXsESzL7MCG7ANl0b34QUNf+6g2vdV+synbOgAa278/lf0pORW0zLfKlnDCkFWyu+Q4eO3gyZ9AQ==" length="13799768" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.10</title>
+      <pubDate>Tue, 10 Mar 2026 22:54:49 +0000</pubDate>
+      <sparkle:version>1.0.10</sparkle:version>
+      <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.10/Zoryn-1.0.10.dmg" sparkle:edSignature="VOQhFT4LL6Z6NXBAGZqG525lAbUwfGrQ2ZslqZIrc4eSBhNDiuS5zxxaspnnAkSSRr5ooZmaIh+x2j3R4ZbuAQ==" length="13820183" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.11</title>
+      <pubDate>Fri, 20 Mar 2026 00:31:46 +0000</pubDate>
+      <sparkle:version>1.0.11</sparkle:version>
+      <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.11/Zoryn-1.0.11.dmg" sparkle:edSignature="G8UPQqZgBU/9/JYvkToJhK3bu8FXziy+35XWlIfLBJnjOy4dDwIk4O2vb/vyNv/63GKutGD7IJbIkxxtIGFSDQ==" length="17966826" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.12</title>
+      <pubDate>Sat, 21 Mar 2026 00:02:07 +0000</pubDate>
+      <sparkle:version>1.0.12</sparkle:version>
+      <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.12/Zoryn-1.0.12.dmg" sparkle:edSignature="pd6r1bG3aGuHsPZgUXU55dShyYt4/OYh6Z8n2G5H3DXxfdWp8PP2zkdJ0+ZdJEeYAEEtMuNqR+oXVBAWrL95AA==" length="18184813" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.14</title>
+      <pubDate>Sat, 21 Mar 2026 06:51:18 +0000</pubDate>
+      <sparkle:version>1.0.14</sparkle:version>
+      <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.14/Zoryn-1.0.14.dmg" sparkle:edSignature="DKBm5Ds5nZ7BE4Z0SBQfJ7hzWeMRScKaGmx2St8NPUkGFu+/m0S2f/6NBNXddoTHXIPZ3Or97BJ4DJRgHBd6Dw==" length="18389753" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.15</title>
+      <pubDate>Thu, 26 Mar 2026 16:24:44 +0000</pubDate>
+      <sparkle:version>1.0.15</sparkle:version>
+      <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.15/Zoryn-1.0.15.dmg" sparkle:edSignature="qtmYQsTg3WbXlqqUvbchdZ8qzN4GQDluXo4wsHHg347MdbFJ8Hy7QWbRQjYct7JRHG1dzG1SPsAjx0WU8biRCw==" length="18423892" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.16</title>
+      <pubDate>Sat, 28 Mar 2026 05:52:14 +0000</pubDate>
+      <sparkle:version>1.0.16</sparkle:version>
+      <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.16/Zoryn-1.0.16.dmg" sparkle:edSignature="rc7KvAPi0SO4dsWaOiWLmDEOTC31MMJBDASNtBarrPz1W0A97fppnKB003sVpvM1fw7BTM05qzspmTB3+pJlBw==" length="22708050" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.18</title>
+      <pubDate>Tue, 31 Mar 2026 02:20:01 +0000</pubDate>
+      <sparkle:version>1.0.18</sparkle:version>
+      <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.18/Zoryn-1.0.18.dmg" sparkle:edSignature="cywTMVSloym6OiOq1FA/mFL5LnPgkq9Z9vBwaVjovzS18DJ2ivxUJiq1a7hTHTDY7jWB1oukyyGUkZjY3K+eCg==" length="22926738" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.19</title>
+      <pubDate>Fri, 03 Apr 2026 22:10:06 +0000</pubDate>
+      <sparkle:version>1.0.19</sparkle:version>
+      <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.19/Zoryn-1.0.19.dmg" sparkle:edSignature="plNXv8pbzH/VbRMSe3ZKzoCjDMD/zIuTeRH9Y17xvturD2bE0KSa3a1ZqLrjrGy8JaN9b4boYIXF2MP4SrsZBA==" length="23058672" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.20</title>
+      <pubDate>Thu, 09 Apr 2026 03:41:58 +0000</pubDate>
+      <sparkle:version>1.0.20</sparkle:version>
+      <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.20/Zoryn-1.0.20.dmg" sparkle:edSignature="JKd1l+guiJ/41bTZkYFlC55SfyBl8XwPWir4ruHhsR/XKSDZ/Gk4IiDh+Ka5PFl/TZ7QBzOfreZl9mdTM7u9BA==" length="78649297" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.21</title>
+      <pubDate>Thu, 09 Apr 2026 22:00:41 +0000</pubDate>
+      <sparkle:version>1.0.21</sparkle:version>
+      <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.21/Zoryn-1.0.21.dmg" sparkle:edSignature="XCOObn1cFZXEv93F4upYoDziwPzos9Pm3MVeTV1wggck+4KpAHJ4TYbyhOUmtGd2Erg3il/m6CF39uWYwEp6CA==" length="78779305" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.22</title>
+      <pubDate>Fri, 10 Apr 2026 06:18:49 +0000</pubDate>
+      <sparkle:version>1.0.22</sparkle:version>
+      <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.22/Zoryn-1.0.22.dmg" sparkle:edSignature="bTbOgRcRx9/mlCT1OChcR2bYpxQA3of1UD/Pb/F+SbrVNJwjlKbc/sKRGE2+Qn2wthirfAcyVoR4gujels8nCw==" length="78856476" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.23</title>
+      <pubDate>Fri, 10 Apr 2026 17:43:07 +0000</pubDate>
+      <sparkle:version>1.0.23</sparkle:version>
+      <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.23/Zoryn-1.0.23.dmg" sparkle:edSignature="Mk/1vZLzGUmEFf2avAcEZI05Z9SjbgczuP9wlFcxW1U5XpXuwbQG5jKUqKEK3vFH6GWAUciBnW2vqgdI/wvwAg==" length="78892343" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.24</title>
+      <pubDate>Sun, 12 Apr 2026 05:33:35 +0000</pubDate>
+      <sparkle:version>1.0.24</sparkle:version>
+      <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.24/Zoryn-1.0.24.dmg" sparkle:edSignature="xFEUx54hGaxYMemM+XPmAI+ZNX/zSfgqzpOhAUA+mirMB9yk7wJwvKSNZ0KlKLPsRlpfTT3Ph6hzFiD+2bwiDw==" length="79290059" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.25</title>
+      <pubDate>Thu, 16 Apr 2026 02:28:31 +0000</pubDate>
+      <sparkle:version>1.0.25</sparkle:version>
+      <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.25/Zoryn-1.0.25.dmg" sparkle:edSignature="ue/VzJ7vOe4FURLn4xJ8LPti2YLQC8hMeqKm7DjBgxNZIXKNj3r2XNeS6eN4UpJLYkFxhD1t/LekG6ILkxjmCQ==" length="80167459" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.26</title>
+      <pubDate>Thu, 16 Apr 2026 05:16:25 +0000</pubDate>
+      <sparkle:version>1.0.26</sparkle:version>
+      <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.26/Zoryn-1.0.26.dmg" sparkle:edSignature="HS5HktMo8YTbr/C7RCpP0Aj5x6XDhJmAv0O77QAmQCpedcxozeO/nMMZyh0fRtYqYJXyLnD+W1r3KUy1nvSzCQ==" length="80204570" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.27</title>
+      <pubDate>Sat, 18 Apr 2026 00:32:42 +0000</pubDate>
+      <sparkle:version>1.0.27</sparkle:version>
+      <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.27/Zoryn-1.0.27.dmg" sparkle:edSignature="tnPEUKzSTL4cjHKnmjghnTZTeD0HK61Suhg4a8kD39EpaScocAVqnFXzgqVCNx0Dm6Zrldc+8CfrwTY9RfcPAA==" length="80312152" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.28</title>
+      <pubDate>Wed, 22 Apr 2026 00:04:53 +0000</pubDate>
+      <sparkle:version>1.0.28</sparkle:version>
+      <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.28/Zoryn-1.0.28.dmg" sparkle:edSignature="giV4ICxRr052Y4nklKC0WdVIMr/NN6CSTfImvPM47XoVzfyBKpkbUWsLcYhAbDYdU9+nTFlVhtCheodkxqx3Bw==" length="80493060" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.29</title>
+      <pubDate>Wed, 22 Apr 2026 02:12:31 +0000</pubDate>
+      <sparkle:version>1.0.29</sparkle:version>
+      <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.29/Zoryn-1.0.29.dmg" sparkle:edSignature="dspbTrGq+BuQFokeLca0rd4rB4tCefaW9Kf1bClSroev0erWxPOQ0vo9lNiEeZtY4ZpN+2WUkN7vpllX1aE6DA==" length="80491536" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.30</title>
+      <pubDate>Wed, 22 Apr 2026 03:14:06 +0000</pubDate>
+      <sparkle:version>1.0.30</sparkle:version>
+      <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.30/Zoryn-1.0.30.dmg" sparkle:edSignature="ipQUrmXj/wLjTnZMJm8kxsuz+pHNwI0HVxMisy1r72gvZ501DXIcqZScHOxnStCCCy2PlsLKiCp8hLlAvp8vBA==" length="80492972" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.31</title>
+      <pubDate>Wed, 22 Apr 2026 20:55:08 +0000</pubDate>
+      <sparkle:version>1.0.31</sparkle:version>
+      <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.31/Zoryn-1.0.31.dmg" sparkle:edSignature="qiNlgg8UCuk7U25DCpRaEJbhdgq5ZRgDAymuMo02QXVf8PDToWxfCaf7TYPI5jVNwn1mj3jlrsdogjSGTAbpAg==" length="80586843" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.34</title>
+      <pubDate>Mon, 27 Apr 2026 20:43:48 +0000</pubDate>
+      <sparkle:version>1.0.34</sparkle:version>
+      <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.34/Zoryn-1.0.34.dmg" sparkle:edSignature="E5rkg2EbvK6NI06y8rcIiVr6J0Zh/4EModgdaLR70JBxs2eAbolEb7cuTcv+QbpH+yCKxqdhHbbIVK7wReNwDA==" length="80608469" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.35</title>
+      <pubDate>Mon, 27 Apr 2026 21:20:48 +0000</pubDate>
+      <sparkle:version>1.0.35</sparkle:version>
+      <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.35/Zoryn-1.0.35.dmg" sparkle:edSignature="Mmnq73MbZLiHyT24tb4ehjOebT1fmZi0KRRlNx+J7rxEKfexZ7eYYPvT3U/j++u3sw4yQDjx8KgNLz7PRAESBA==" length="80842808" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.37</title>
+      <pubDate>Thu, 30 Apr 2026 06:03:13 +0000</pubDate>
+      <sparkle:version>1.0.37</sparkle:version>
+      <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.37/Zoryn-1.0.37.dmg" sparkle:edSignature="oITVps9Vh0OTmuzAlvnXiEfi6oWFh2LnpT7BVoJLijtV1nZAr5+TTMtGmnQqSz6adI377Db8bS6PjVQrfCFuCQ==" length="81170027" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.38</title>
+      <pubDate>Fri, 01 May 2026 08:50:23 +0000</pubDate>
+      <sparkle:version>1.0.38</sparkle:version>
+      <sparkle:shortVersionString>1.0.38</sparkle:shortVersionString>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.38/Zoryn-1.0.38.dmg" sparkle:edSignature="5z30nCCnhJfQIW7FrXlu9WZVJiVh+sHQZvE69qYiC7qm22wSwlKok0H+6AbmCW70TcKRZWi/yicIvMih7cK4Aw==" length="81171902" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
