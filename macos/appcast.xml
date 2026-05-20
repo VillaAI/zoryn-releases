@@ -3,6 +3,14 @@
   <channel>
     <title>Zoryn</title>
     <item>
+      <title>Version 1.0.41</title>
+      <pubDate>Wed, 20 May 2026 02:29:16 +0000</pubDate>
+      <sparkle:version>1.0.41</sparkle:version>
+      <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <enclosure url="https://github.com/VillaAI/zoryn-releases/releases/download/v1.0.41/Zoryn-1.0.41.dmg" sparkle:edSignature="baO+CHjF1Cz9D1qn0ofE86gxSdBXvkfF/7LsmcfzG9SXnRpI42P3Q6UdRaS3FE/FngzEcSlsyQCnu888AbMlBw==" length="81738039" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0.40</title>
       <pubDate>Fri, 15 May 2026 19:14:07 +0000</pubDate>
       <sparkle:version>1.0.40</sparkle:version>
